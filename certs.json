@@ -11,6 +11,10 @@
   ],
   "courses": [
     {
+      "title": "HackerRank - Angular (Intermediate)",
+      "verificationUrl": "https://www.hackerrank.com/certificates/d8967b21ed51"
+    },
+    {
       "title": "Meta - Version Control",
       "verificationUrl": "https://coursera.org/verify/K7FKH7VDUTX"
     },
@@ -33,10 +37,6 @@
     {
       "title": "Google Cloud - Introduction to Generative AI Studio",
       "verificationUrl": "https://coursera.org/verify/VE78CXE7APHK"
-    },
-    {
-      "title": "HackerRank - Angular (Intermediate)",
-      "verificationUrl": "https://www.hackerrank.com/certificates/d8967b21ed51"
     },
     {
       "title": "Google - Agile Project Management",
