@@ -1,0 +1,50 @@
+{
+  "certifications": [
+    {
+      "title": "Meta Back-End Developer Professional Certificate",
+      "verificationUrl": "https://coursera.org/verify/profession al-cert/XDSN6XHWY9SQ"
+    },
+    {
+      "title": "IBM Full Stack Software Developer Professional Certificate",
+      "verificationUrl": "#"
+    }
+  ],
+  "courses": [
+    {
+      "title": "Meta - Version Control",
+      "verificationUrl": "https://coursera.org/verify/K7FKH7VDUTX"
+    },
+    {
+      "title": "Meta - Introduction to Databases for Back-End Development",
+      "verificationUrl": "https://coursera.org/verify/S8TYBYL4FEQ3"
+    },
+    {
+      "title": "Meta - APIs",
+      "verificationUrl": "https://coursera.org/verify/GPJFTAGBUCM5"
+    },
+    {
+      "title": "Object-Oriented Programming with Java",
+      "verificationUrl": "https://coursera.org/verify/4DCJ3TGL7JWQ"
+    },
+    {
+      "title": "Google Cloud - Introduction to Generative AI",
+      "verificationUrl": "https://coursera.org/verify/PC5GN99Y2E4M"
+    },
+    {
+      "title": "Google Cloud - Introduction to Generative AI Studio",
+      "verificationUrl": "https://coursera.org/verify/VE78CXE7APHK"
+    },
+    {
+      "title": "HackerRank - Angular (Intermediate)",
+      "verificationUrl": "https://www.hackerrank.com/certificates/d8967b21ed51"
+    },
+    {
+      "title": "Google - Agile Project Management",
+      "verificationUrl": "https://coursera.org/verify/W84Z52SHBUKW"
+    },
+    {
+      "title": "Meta - Django Web Framework",
+      "verificationUrl": "https://coursera.org/verify/7VDU4G8KR2B4"
+    }
+  ]
+}
