@@ -1,13 +1,26 @@
 {
   "certifications": [
     {
-      "title": "Meta Back-End Developer Professional Certificate",
-      "verificationUrl": "https://coursera.org/verify/professional-cert/XDSN6XHWY9SQ"
+      "title": "Back-End Developer Professional Certificate",
+      "verificationUrl": "https://coursera.org/verify/professional-cert/XDSN6XHWY9SQ",
+      "organization": "Meta",
     },
     {
-      "title": "IBM Full Stack Software Developer Professional Certificate",
-      "verificationUrl": ""
+      "title": "Full Stack Software Developer Professional Certificate",
+      "verificationUrl": "",
+       "organization": "IBM",
     }
+  ],
+  "specialization" : [
+      {
+        "title": "Software Design and Architecture",
+        "verificationUrl": "https://coursera.org/verify/specialization/MXSF34BCEC6J",
+        "organization": "University of Alberta",
+        "courses": [
+          "title": "Object-Oriented Design",
+          "verificationUrl": "https://coursera.org/verify/RXJ5Y2RBXXX7",
+        ]
+      }
   ],
   "courses": [
     {
