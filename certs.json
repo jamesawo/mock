@@ -104,12 +104,22 @@
 	],
 	"courses": [
 		{
-			"title": "Angular",
+			"title": "Angular (Intermediate)",
 			"verificationUrl": "https://www.hackerrank.com/certificates/d8967b21ed51",
       "organization": {
         "name": "Hacker Rank"
       },
-      "status": "completed"
+      "status": "completed",
+      "date": "July 2023"
+		},
+    {
+			"title": "Agile Project Management",
+			"verificationUrl": "https://coursera.org/verify/W84Z52SHBUKW",
+      "organization": {
+        "name": "Google"
+      },
+      "status": "completed",
+      "date": "May 2023"
 		},
 		{
 			"title": "Introduction to Generative AI",
@@ -117,7 +127,8 @@
       "organization": {
         "name": "Google Cloud"
       },
-      "status": "completed"
+      "status": "completed",
+      "date": "September 2023"
 		},
 		{
 			"title": "Introduction to Generative AI Studio",
@@ -125,15 +136,8 @@
       "organization": {
         "name": "Google Cloud"
       },
-      "status": "completed"
-		},
-		{
-			"title": "Agile Project Management",
-			"verificationUrl": "https://coursera.org/verify/W84Z52SHBUKW",
-      "organization": {
-        "name": "Google"
-      },
-      "status": "completed"
+      "status": "completed",
+      "date": "September 2023"
 		}
 	]
 }
