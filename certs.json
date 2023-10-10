@@ -114,19 +114,25 @@
 		{
 			"title": "Introduction to Generative AI",
 			"verificationUrl": "https://coursera.org/verify/PC5GN99Y2E4M",
-      "organization": "Google Cloud",
+      "organization": {
+        "name": "Google Cloud"
+      },
       "status": "completed"
 		},
 		{
 			"title": "Introduction to Generative AI Studio",
 			"verificationUrl": "https://coursera.org/verify/VE78CXE7APHK",
-      "organization": "Google Cloud",
+      "organization": {
+        "name": "Google Cloud"
+      },
       "status": "completed"
 		},
 		{
 			"title": "Agile Project Management",
 			"verificationUrl": "https://coursera.org/verify/W84Z52SHBUKW",
-      "organization": "Google",
+      "organization": {
+        "name": "Google"
+      },
       "status": "completed"
 		}
 	]
