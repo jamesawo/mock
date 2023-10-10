@@ -1,63 +1,106 @@
 {
-  "certifications": [
-    {
-      "title": "Back-End Developer Professional Certificate",
-      "verificationUrl": "https://coursera.org/verify/professional-cert/XDSN6XHWY9SQ",
-      "organization": "Meta",
-    },
-    {
-      "title": "Full Stack Software Developer Professional Certificate",
-      "verificationUrl": "",
-       "organization": "IBM",
-    }
-  ],
-  "specialization" : [
-      {
-        "title": "Software Design and Architecture",
-        "verificationUrl": "https://coursera.org/verify/specialization/MXSF34BCEC6J",
-        "organization": "University of Alberta",
-        "courses": [
-          "title": "Object-Oriented Design",
-          "verificationUrl": "https://coursera.org/verify/RXJ5Y2RBXXX7",
-        ]
-      }
-  ],
-  "courses": [
-    {
-      "title": "HackerRank - Angular (Intermediate)",
-      "verificationUrl": "https://www.hackerrank.com/certificates/d8967b21ed51"
-    },
-    {
-      "title": "Meta - Version Control",
-      "verificationUrl": "https://coursera.org/verify/K7FKH7VDUTXJ"
-    },
-    {
-      "title": "Meta - Introduction to Databases for Back-End Development",
-      "verificationUrl": "https://coursera.org/verify/S8TYBYL4FEQ3"
-    },
-    {
-      "title": "Meta - APIs",
-      "verificationUrl": "https://coursera.org/verify/GPJFTAGBUCM5"
-    },
-    {
-      "title": "Object-Oriented Programming with Java",
-      "verificationUrl": "https://coursera.org/verify/4DCJ3TGL7JWQ"
-    },
-    {
-      "title": "Google Cloud - Introduction to Generative AI",
-      "verificationUrl": "https://coursera.org/verify/PC5GN99Y2E4M"
-    },
-    {
-      "title": "Google Cloud - Introduction to Generative AI Studio",
-      "verificationUrl": "https://coursera.org/verify/VE78CXE7APHK"
-    },
-    {
-      "title": "Google - Agile Project Management",
-      "verificationUrl": "https://coursera.org/verify/W84Z52SHBUKW"
-    },
-    {
-      "title": "Meta - Django Web Framework",
-      "verificationUrl": "https://coursera.org/verify/7VDU4G8KR2B4"
-    }
-  ]
+	"certifications": [
+		{
+			"title": "Back-End Developer Professional Certificate",
+			"verificationUrl": "https://coursera.org/verify/professional-cert/XDSN6XHWY9SQ",
+			"organization": "Meta",
+      "status": "completed",
+      "courses": [
+				{
+					"title": "Introduction to Back-End Development",
+					"verificationUrl": "https://coursera.org/verify/HX9EW7Z77AVF"
+				},
+        {
+					"title": "Introduction to Databases for Back-End Development",
+					"verificationUrl": "https://coursera.org/verify/S8TYBYL4FEQ3"
+				},
+				{
+					"title": "Version Control",
+					"verificationUrl": "https://coursera.org/verify/K7FKH7VDUTXJ"
+				},
+				{
+					"title": "APIs",
+					"verificationUrl": "https://coursera.org/verify/GPJFTAGBUCM5"
+				},
+        {
+					"title": "Programming in Python",
+					"verificationUrl": "https://coursera.org/verify/NA99HZNL9U5F"
+				},
+				{
+					"title": "Django Web Framework",
+					"verificationUrl": "https://coursera.org/verify/7VDU4G8KR2B4"
+				},
+        {
+					"title": "The Full Stack",
+					"verificationUrl": "https://coursera.org/verify/DGYE5NBS95T3"
+				},
+				{
+					"title": "Back-End Developer Capstone",
+					"verificationUrl": "https://coursera.org/verify/CW5BDFDU2ZVF"
+				},
+        {
+					"title": "Coding Interview Preparation",
+					"verificationUrl": "https://coursera.org/verify/9FBGZ2B7YHUK"
+				}
+			]
+		},
+		{
+			"title": "Full Stack Software Developer Professional Certificate",
+			"verificationUrl": "",
+			"organization": "IBM",
+      "status": "review"
+		}
+	],
+	"specialization": [
+		{
+			"title": "Software Design and Architecture",
+			"verificationUrl": "https://coursera.org/verify/specialization/MXSF34BCEC6J",
+			"organization": "University of Alberta",
+      "status": "completed",
+			"courses": [
+				{
+					"title": "Object-Oriented Design",
+					"verificationUrl": "https://coursera.org/verify/RXJ5Y2RBXXX7"
+				},
+        {
+					"title": "Design Patterns",
+					"verificationUrl": "https://coursera.org/verify/34ME8U66VK24"
+				},
+        {
+					"title": "Software Architecture",
+					"verificationUrl": "https://coursera.org/verify/G96HHRT3B5MT"
+				},
+        {
+					"title": "Service-Oriented Architecture",
+					"verificationUrl": "https://coursera.org/verify/XQ826AJ25Z6J"
+				}
+			]
+		}
+	],
+	"courses": [
+		{
+			"title": "Angular",
+			"verificationUrl": "https://www.hackerrank.com/certificates/d8967b21ed51",
+      "organization": "HackerRank",
+      "status": "completed"
+		},
+		{
+			"title": "Introduction to Generative AI",
+			"verificationUrl": "https://coursera.org/verify/PC5GN99Y2E4M",
+      "organization": "Google Cloud",
+      "status": "completed"
+		},
+		{
+			"title": "Introduction to Generative AI Studio",
+			"verificationUrl": "https://coursera.org/verify/VE78CXE7APHK",
+      "organization": "Google Cloud",
+      "status": "completed"
+		},
+		{
+			"title": "Agile Project Management",
+			"verificationUrl": "https://coursera.org/verify/W84Z52SHBUKW",
+      "organization": "Google",
+      "status": "completed"
+		}
+	]
 }
