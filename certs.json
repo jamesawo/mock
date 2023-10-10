@@ -3,8 +3,16 @@
 		{
 			"title": "Back-End Developer Professional Certificate",
 			"verificationUrl": "https://coursera.org/verify/professional-cert/XDSN6XHWY9SQ",
-			"organization": "Meta",
+			"organization": {
+        "name": "Meta",
+        "logo": ""
+      },
       "status": "completed",
+      "date": "September, 2023",
+      "expiration": "",
+      "skills": [
+        "Python", "Git", "SQL", "Version Control", "Cloud Hosting", "APIs", "JSON", "XML", "Linux commands","Algorithms", "Structures"
+      ],
       "courses": [
 				{
 					"title": "Introduction to Back-End Development",
@@ -47,16 +55,33 @@
 		{
 			"title": "Full Stack Software Developer Professional Certificate",
 			"verificationUrl": "",
-			"organization": "IBM",
-      "status": "review"
+			"organization": {
+        "name": "IBM",
+        "logo": ""
+      },
+      "status": "review",
+      "date": "",
+      "expiration": "",
+      "skills": [
+        "Computer Programming", "Web Development", "Cloud Computing", "Programming Tools", "Programming Principles", 
+        "Python", "JavaScript", "DevOps", "HTML and CSS", "SQL"
+      ]
 		}
 	],
 	"specialization": [
 		{
 			"title": "Software Design and Architecture",
 			"verificationUrl": "https://coursera.org/verify/specialization/MXSF34BCEC6J",
-			"organization": "University of Alberta",
+      "organization": {
+        "name": "University of Alberta",
+        "logo": ""
+      },
       "status": "completed",
+      "date": "",
+      "expiration": "",
+      "skills": [
+        "Software Architecture", "Java", "Software Design Pattern", "Object-Oriented Programming (OOP)", "Design and Product"
+      ],
 			"courses": [
 				{
 					"title": "Object-Oriented Design",
@@ -81,7 +106,9 @@
 		{
 			"title": "Angular",
 			"verificationUrl": "https://www.hackerrank.com/certificates/d8967b21ed51",
-      "organization": "HackerRank",
+      "organization": {
+        "name": "Hacker Rank"
+      },
       "status": "completed"
 		},
 		{
